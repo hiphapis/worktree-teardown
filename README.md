@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [hiphapis/claude-plugins](https://github.com/hiphapis/claude-plugins/tree/main/plugins/worktree-teardown) and is archived. Install: `/plugin marketplace add hiphapis/claude-plugins` → `/plugin install worktree-teardown@hiphapis`
+
 # worktree-teardown
 
 [한국어](README.ko.md)

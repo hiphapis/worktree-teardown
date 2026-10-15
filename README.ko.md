@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> 이 저장소는 [hiphapis/claude-plugins](https://github.com/hiphapis/claude-plugins/tree/main/plugins/worktree-teardown)로 이전되었고 보관(archive) 처리되었습니다. 설치: `/plugin marketplace add hiphapis/claude-plugins` → `/plugin install worktree-teardown@hiphapis`
+
 # worktree-teardown
 
 [English](README.md)
